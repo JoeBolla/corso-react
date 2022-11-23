@@ -1,0 +1,29 @@
+/* .book-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.book {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    max-width: 500px;
+    } */
+
+.card-session {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    }
+
+.card {
+    border: 1px solid brown;
+    border-radius: 12px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card img {
+    border-radius: 12px 12px 0 0;
+}
